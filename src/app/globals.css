@@ -1,0 +1,121 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import "leaflet/dist/leaflet.css";
+
+/* ==== Theme tokens (لا تغيّر الإصدارات) ==== */
+:root{
+  --rv-bg:      #0f1a2b;
+  --rv-primary: #5B8CFF;
+  --rv-violet:  #7A3EFF;
+  --rv-accent:  #F9C74F;
+  --rv-radius:  14px;
+}
+
+html,body{ scroll-behavior:smooth; }
+body{ @apply bg-slate-50 text-slate-900; }
+
+/* ==== حاويات ==== */
+.container-narrow{ @apply mx-auto max-w-5xl px-4; }
+.container-wide{   @apply mx-auto max-w-7xl px-4; }
+
+/* ==== بطاقات عامة ==== */
+.card{
+  @apply bg-white rounded-[var(--rv-radius)] border border-slate-200 p-4
+         shadow-soft transition-shadow motion-safe:hover:shadow-hover;
+}
+
+/* ==== الأزرار ==== */
+.btn{
+  @apply inline-flex items-center justify-center gap-2
+         rounded-[12px] h-10 px-4 text-sm font-medium
+         border border-slate-200 bg-white
+         hover:bg-slate-100
+         focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-indigo-200
+         active:scale-[.98] transition;
+}
+.btn-primary{
+  background-image: linear-gradient(135deg, var(--rv-primary), var(--rv-violet));
+  @apply text-white border-transparent;
+}
+.btn-outline{ @apply bg-white border-slate-300 hover:bg-slate-100; }
+.btn-ghost{   @apply bg-transparent border-transparent hover:bg-slate-100; }
+.btn-danger{  @apply bg-rose-600 text-white border-transparent; }
+
+/* ==== شارات / Chips ==== */
+.badge{
+  @apply inline-flex items-center gap-1 rounded-full border px-2.5 h-7 text-xs
+         text-slate-600 bg-slate-50 border-slate-200;
+}
+.badge-success{ @apply bg-emerald-50 text-emerald-700 border-emerald-200; }
+.badge-info{    @apply bg-indigo-50 text-indigo-700 border-indigo-200; }
+.badge-warn{    @apply bg-amber-50  text-amber-700  border-amber-200; }
+.badge-danger{  @apply bg-rose-50   text-rose-700   border-rose-200; }
+
+.chip{
+  @apply inline-flex items-center gap-2 rounded-full h-9 px-3
+         border border-slate-200 bg-white text-sm text-slate-600
+         hover:border-indigo-300 hover:text-slate-900 transition;
+}
+
+/* ==== الحقول ==== */
+.input,.select,.textarea{
+  @apply w-full rounded-[12px] border border-slate-200 bg-white
+         focus:border-indigo-300 focus:ring-2 focus:ring-indigo-100 transition;
+}
+.input{ @apply h-10 px-3; }
+.select{ @apply h-10 px-3; }
+.textarea{ @apply p-3 min-h-[120px]; }
+
+/* ==== أدوات ==== */
+.line-clamp-2{
+  display:-webkit-box;
+  -webkit-line-clamp:2;
+  -webkit-box-orient:vertical;
+  overflow:hidden;
+}
+
+/* Skeleton Loader */
+.skeleton{ @apply relative overflow-hidden bg-slate-100 rounded-[12px]; }
+.skeleton::after{
+  content:"";
+  @apply absolute inset-0 -translate-x-full bg-gradient-to-r
+         from-transparent via-white/60 to-transparent;
+  animation: shimmer 1.25s infinite;
+}
+@keyframes shimmer{ 100%{ transform:translateX(100%); } }
+
+/* Scrollbar helper */
+.no-scrollbar::-webkit-scrollbar{ display:none; }
+.no-scrollbar{ -ms-overflow-style:none; scrollbar-width:none; }
+
+/* نص المراجعات */
+.prose-review{
+  @apply prose prose-slate max-w-none
+         prose-h3:mt-2 prose-p:my-2 prose-img:rounded-xl;
+}
+
+.btn {
+  display: inline-flex; align-items: center; gap: .25rem;
+  padding: .4rem .7rem; border-radius: .6rem; font-weight: 500;
+}
+.btn-soft {
+  background: #f1f5f9; /* slate-100 */
+  color: #0f172a;       /* slate-900 */
+}
+.btn-soft:hover { background: #e2e8f0; } /* slate-200 */
+
+
+/* أضف في globals.css (اختياري) */
+select {
+  background-image: linear-gradient(180deg, transparent 50%, rgba(0,0,0,.05) 50%),
+                    linear-gradient(90deg, transparent 50%, rgba(0,0,0,.05) 50%);
+  background-size: 8px 100%, 100% 8px;
+  background-position: right 0.6rem center, left top;
+  background-repeat: no-repeat;
+}
+  
+/* Fonts fallback setup */
+.rv-font {
+  font-family: 'Tajawal','Plus Jakarta Sans', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', sans-serif;
+}
