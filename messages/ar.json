@@ -1,0 +1,1310 @@
+{
+  "LocaleSwitcher": {
+    "label": "اللغة",
+    "english": "EN",
+    "arabic": "AR"
+  },
+  "Header": {
+    "brand": {
+      "name": "فزنا",
+      "tagline": "استوديو العروض"
+    },
+    "nav": {
+      "discover": "اكتشف",
+      "create": "أنشئ عرضًا",
+      "dashboard": "لوحة التحكم"
+    },
+    "mobileCta": "إنشاء"
+  },
+  "UserMenu": {
+    "signIn": "تسجيل الدخول",
+    "signUp": "إنشاء حساب",
+    "accountFallback": "الحساب",
+    "menu": {
+      "home": "الرئيسية",
+      "offers": "العروض",
+      "profile": "الملف الشخصي"
+    },
+    "signOut": "تسجيل الخروج",
+    "signingOut": "جارٍ تسجيل الخروج..."
+  },
+  "Footer": {
+    "brandName": "فيزنا",
+    "tagline": "استوديو للعروض التفاعلية والمكافآت",
+    "nav": {
+      "offers": "العروض",
+      "launch": "إطلاق",
+      "dashboard": "لوحة التحكم"
+    },
+    "legal": "© {year} فيزنا. جميع الحقوق محفوظة."
+  },
+  "About": {
+    "title": "عن فيزنا",
+    "body": "فيزنا استوديو حديث لتجارب العروض التفاعلية وبرامج الولاء."
+  },
+  "HomeSections": {
+    "search": {
+      "placeholder": "ابحث عن خدمة...",
+      "button": "بحث",
+      "countryPlaceholder": "كل الدول"
+    },
+    "categories": {
+      "title": "ما الذي تبحث عنه؟",
+      "scrollLeft": "تمرير لليسار",
+      "scrollRight": "تمرير لليمين"
+    },
+    "best": {
+      "title": "أفضل الخدمات",
+      "ratingSummary": "التقييم {rating} | درجة R {score} | {reviews} مراجعة",
+      "writeReview": "اكتب مراجعة",
+      "openService": "افتح {name}"
+    },
+    "reviews": {
+      "title": "أحدث المراجعات",
+      "open": "عرض {name}",
+      "fallbackName": "الخدمة",
+      "fallbackReview": "مراجعة"
+    }
+  },
+  "CategoriesPage": {
+    "hero": {
+      "title": "اكتشف وجرب واكتب مراجعة",
+      "subtitle": "تصفّح الفئات والخدمات المتاحة."
+    },
+    "search": {
+      "placeholder": "ابحث باسم الخدمة...",
+      "button": "بحث",
+      "countryPlaceholder": "كل الدول"
+    },
+    "topServices": {
+      "rating": "التقييم {rating}",
+      "reviews": "{count, plural, zero {لا مراجعات} one {مراجعة واحدة} two {مراجعتان} few {# مراجعات} many {# مراجعة} other {# مراجعة}}",
+      "none": "لا توجد خدمات بعد"
+    }
+  },
+  "Offers": {
+    "hero": {
+      "studioTag": "استوديو فزنا",
+      "headline": "صمّم عروضًا جذابة ومكافآت ومهامًا تمزج الواقع بالخيال",
+      "subheading": "تساعد فيزنا العلامات التجارية على إطلاق مسابقات تفاعلية ومهام ولاء في دقائق. اكتشف ما هو متاح الآن أو ابنِ تجربتك باستخدام مجموعة الإنشاء.",
+      "cta": {
+        "launch": "أطلق على فيزنا",
+        "explore": "استعرض الكتالوج ->"
+      },
+      "stats": {
+        "live": "متاحة الآن",
+        "endingSoon": "تنتهي قريبًا",
+        "total": "إجمالي العروض"
+      }
+    },
+    "filters": {
+      "search": {
+        "label": "بحث",
+        "placeholder": "ابحث عن عروض..."
+      },
+      "type": {
+        "label": "النوع",
+        "all": "كل الأنواع"
+      },
+      "status": {
+        "label": "الحالة",
+        "all": "كل الحالات",
+        "active": "نشط",
+        "ended": "منتهٍ"
+      },
+      "sort": {
+        "label": "ترتيب حسب",
+        "newest": "الأحدث",
+        "endingSoon": "ينتهي قريبًا"
+      }
+    },
+    "types": {
+      "RAFFLE": "سحب فوري",
+      "RIDDLE": "لغز تفاعلي",
+      "QR_CODE": "مطاردة رموز QR",
+      "LEADERBOARD": "تحدي لوحة الصدارة",
+      "TREASURE_HUNT": "مطاردة كنز",
+      "SCAVENGER": "مطاردة كنز",
+      "MISSION": "مهمة",
+      "TRIVIA": "مسابقة معرفية",
+      "SURVEY": "استبيان",
+      "TREASURE": "مسار كنز",
+      "UGC": "تحدي المحتوى الإبداعي",
+      "REFERRAL": "مهمة دعوات",
+      "PREDICTION": "تحدي التوقعات"
+    },
+    "card": {
+      "active": "نشط",
+      "closed": "مغلق",
+      "noDeadline": "بدون موعد نهائي",
+      "ended": "انتهى",
+      "daysLeft": "{count, plural, zero {لا أيام متبقية} one {يوم واحد متبقٍ} two {يومان متبقيان} few {# أيام متبقية} many {# يومًا متبقيًا} other {# يوم متبقٍ}}",
+      "viewDetails": "عرض التفاصيل"
+    },
+    "empty": {
+      "title": "لا توجد عروض تطابق عوامل التصفية",
+      "description": "جرّب إعادة ضبط البحث أو عد لاحقًا لتجارب جديدة من شركائنا."
+    },
+    "errors": {
+      "load": "تعذر تحميل العروض."
+    }
+  },
+  "ServicePage": {
+    "breadcrumbs": {
+      "home": "الرئيسية"
+    },
+    "hero": {
+      "verified": "موثق",
+      "verifiedTooltip": "تم التحقق من هوية هذه الخدمة بواسطة فيزنا.",
+      "fallbackDescription": "لا يوجد وصف بعد.",
+      "rating": "{rating}★",
+      "reviews": "{count, plural, zero {لا مراجعات} one {مراجعة واحدة} two {مراجعتان} few {# مراجعات} many {# مراجعة} other {# مراجعة}}",
+      "rScore": "درجة R {score}",
+      "writeReview": "اكتب مراجعة"
+    },
+    "submissionBanner": {
+      "success": "تم إرسال مراجعتك وبانتظار الموافقة."
+    },
+    "reviews": {
+      "empty": "لا توجد مراجعات حتى الآن.",
+      "cta": "كن أول من يكتب مراجعة",
+      "viaQR": "تم التحقق عبر QR",
+      "viaInvite": "دعوة",
+      "authorFallback": "مستخدم",
+      "replyPrefix": "رد من {name}",
+      "timestamp": "في {date}"
+    },
+    "pagination": {
+      "range": "يتم عرض {from}–{to} من {total}",
+      "prev": "السابق",
+      "next": "التالي"
+    },
+    "related": {
+      "title": "خدمات مشابهة",
+      "ratingSummary": "التقييم {rating} · درجة R {score} · {reviews} مراجعة"
+    },
+    "metrics": {
+      "ratings": "التقييمات",
+      "transparency": "الشفافية",
+      "days30": "آخر 30 يومًا",
+      "days365": "آخر 365 يومًا",
+      "rScore": "درجة R",
+      "qrShare": "نسبة QR",
+      "inviteShare": "نسبة الدعوات",
+      "flagged": "إشعارات المخالفات",
+      "note": "تعتمد درجة R على متوسط بايزي مع عامل زمني للتناقص."
+    }
+  },
+  "OfferDetail": {
+    "loading": "جاري التحميل...",
+    "notFound": {
+      "title": "العرض غير موجود",
+      "description": "لم نتمكن من العثور على هذا العرض. قد يكون أزيل أو لم يُنشر بعد.",
+      "cta": "استعرض جميع العروض"
+    },
+    "labels": {
+      "typeFallback": "مسابقة",
+      "selectionFallback": "طريقة الاختيار",
+      "statusFallback": "الحالة"
+    },
+    "dates": {
+      "notSet": "غير محدد"
+    },
+    "timeline": {
+      "chips": {
+        "closed": "مغلق",
+        "upcoming": "سيبدأ قريبًا",
+        "active": "مفتوح الآن"
+      },
+      "helpers": {
+        "closed": "أُغلق {time}",
+        "opens": "يفتح {time}",
+        "closes": "يغلق {time}",
+        "accepting": "يستقبل المشاركات"
+      }
+    },
+    "hero": {
+      "typeLabel": "النوع",
+      "methodLabel": "آلية الاختيار",
+      "opensLabel": "موعد الافتتاح",
+      "closesLabel": "موعد الإغلاق",
+      "timelineLabel": "الجدول الزمني",
+      "enterCta": "شارك الآن",
+      "manageCta": "إدارة العرض",
+      "statusCta": "حالة العرض",
+      "hostedBy": "يستضيفه",
+      "organizerLink": "عرض صفحة المنظّم",
+      "organizerFallback": "منظم المسابقة",
+      "shareHint": "شارك الرابط مع أصدقائك لدعوتهم إلى المشاركة.",
+      "openForSubmissions": "مفتوح لإرسال المشاركات"
+    },
+    "share": {
+      "default": "شارك التحدي",
+      "copied": "تم نسخ الرابط",
+      "prompt": "انسخ هذا الرابط لمشاركة التحدي",
+      "text": "اطّلع على هذا التحدي: {title}"
+    },
+    "shareSheet": {
+      "title": "شارك هذا التحدي",
+      "close": "إغلاق",
+      "captionLabel": "النص المقترح",
+      "copyCaption": "نسخ النص",
+      "copyLink": "نسخ الرابط",
+      "previewHelper": "يمكنك تعديل النص قبل النشر.",
+      "systemShare": "مشاركة من الجهاز",
+      "facebook": "فيسبوك",
+      "x": "منصة X",
+      "telegram": "تيليجرام",
+      "whatsapp": "واتساب",
+      "linkCopied": "تم نسخ الرابط",
+      "captionCopied": "تم نسخ النص",
+      "shareReady": "جاهز للمشاركة!",
+      "shareError": "لم نتمكن من تشغيل المشاركة الآن.",
+      "systemUnavailable": "ميزة المشاركة غير مدعومة على هذا الجهاز."
+    },
+    "gallery": {
+      "title": "معرض العرض",
+      "emptyTitle": "المعرض قادم قريبًا",
+      "emptySubtitle": "سيُعرض المحتوى هنا فور أن يشارك المنظم موادًا مرئية."
+    },
+    "prizes": {
+      "title": "تفاصيل الجوائز",
+      "defaultName": "جائزة",
+      "type": "النوع: {value}",
+      "quantity": "الكمية: {value}",
+      "value": "القيمة: {amount} {currency}"
+    },
+    "entry": {
+      "title": "قدّم مشاركتك",
+      "description": "أرسل مشاركتك ما دام العرض مفتوحًا. يمكنك دائمًا مراجعة ما أرسلته من لوحة المشاركين.",
+      "alreadySubmitted": "لقد أرسلت جميع المشاركات المطلوبة لهذا العرض.",
+      "panel": {
+        "heading": "مشاركاتك",
+        "description": "تابع كل ما أرسلته لهذا العرض. تبقى المشاركات خاصة بك."
+      },
+      "signInPrompt": "سجّل الدخول لمراجعة مشاركاتك السابقة ومتابعة تقدمك.",
+      "signInCta": "سجّل الدخول لعرض إجاباتك",
+      "statusOpen": "يمكنك إرسال مشاركة الآن. تأكد من صحة جميع التفاصيل قبل الإرسال.",
+      "statusClosed": "تم إغلاق باب المشاركات.",
+      "disabled": {
+        "inactive": "العرض غير نشط",
+        "notStarted": "لم يبدأ العرض بعد",
+        "ended": "انتهى العرض"
+      }
+    },
+    "stats": {
+      "title": "ما الذي تتوقعه",
+      "description": "شارك في التحدي واتبع الجدول الزمني وراقب بريدك لمتابعة التحديثات.",
+      "labels": {
+        "status": "الحالة",
+        "selection": "طريقة الاختيار",
+        "maxWinners": "عدد الفائزين الأقصى",
+        "prizeSummary": "ملخص الجوائز",
+        "submissions": "عدد المشاركات المستلمة"
+      }
+    },
+    "rules": {
+      "title": "القواعد الرسمية",
+      "fallback": "لم يقدّم المنظم قواعد تفصيلية بعد. الرجاء المحاولة لاحقًا أو التواصل معه للاستفسارات."
+    },
+    "winners": {
+      "label": "آخر الفائزين",
+      "headline": "نحتفل بالمتميزين",
+      "countBadge": "{count, plural, zero {لا فائزين} one {فائز واحد} two {فائزان} few {# فائزين} many {# فائزًا} other {# فائز}}",
+      "empty": "ستظهر أسماء الفائزين هنا فور إعلان المنظّم عنهم.",
+      "spotlight": "الفائز المميز",
+      "defaultName": "فائز",
+      "prizeLabel": "الجائزة: {prize}",
+      "idLabel": "المعرف: {id}",
+      "cta": "عرض قائمة الفائزين كاملة →"
+    },
+    "social": {
+      "title": "روابط التواصل",
+      "website": "الموقع",
+      "facebook": "فيسبوك",
+      "instagram": "إنستغرام",
+      "twitter": "إكس / تويتر",
+      "youtube": "يوتيوب",
+      "tiktok": "تيك توك",
+      "whatsapp": "واتساب",
+      "phone": "اتصال",
+      "email": "البريد الإلكتروني"
+    },
+    "enterNow": {
+      "title": "قدّم مشاركتك",
+      "closedBadge": "تم إغلاق باب المشاركات",
+      "task": {
+        "label": "اختر مهمة"
+      },
+      "text": {
+        "label": "إجابتك",
+        "placeholder": "شارك إجابتك أو فكرتك أو قصتك...",
+        "helper": "يُراجع المنظّم المشاركات، لذا احرص أن تكون إجابتك مكتملة ودقيقة."
+      },
+      "mcq": {
+        "label": "اختر إجابة واحدة"
+      },
+      "prediction": {
+        "title": "تفاصيل التوقع",
+        "requiredHint": "أدخل أهداف كل فريق لتأكيد اختيارك.",
+        "optionalHint": "يمكنك ترك خانة الأهداف فارغة إذا لم تكن مطلوبة.",
+        "teamAFallback": "الفريق أ",
+        "teamBFallback": "الفريق ب",
+        "teamScore": "أهداف {team}"
+      },
+      "upload": {
+        "label": "أرفق الدليل",
+        "helper": "قم برفع مواد تدعم مشاركتك. الملفات الكبيرة قد تستغرق بضع ثوانٍ.",
+        "remove": "إزالة",
+        "attached": "تم إرفاق ملف وسائط",
+        "uploading": "جاري الرفع...",
+        "ctaVideo": "انقر لرفع فيديو",
+        "ctaImage": "انقر لرفع صورة",
+        "wait": "يرجى الانتظار حتى نؤمّن عملية الرفع.",
+        "formatsVideo": "الصيغ المدعومة: MP4, MOV, AVI. الحجم الأقصى 200 ميجابايت.",
+        "formatsImage": "الصيغ المدعومة: JPG, PNG, HEIC. الحجم الأقصى 10 ميجابايت."
+      },
+      "qr": {
+        "label": "قيمة QR / الكود",
+        "placeholder": "امسح أو الصق الكود هنا",
+        "scan": "مسح QR",
+        "stop": "إيقاف المسح",
+        "initializing": "جاري تهيئة الكاميرا…",
+        "instruction": "وجّه الكاميرا إلى رمز QR، وسنلتقطه تلقائيًا."
+      },
+      "buttons": {
+        "submit": "إرسال المشاركة",
+        "submitting": "جاري الإرسال..."
+      },
+      "info": {
+        "taskLabel": "المهمة: {task}",
+        "singleAnswer": "يمكن اختيار إجابة واحدة فقط لكل متسابق.",
+        "multiEntry": "يمكنك التعديل أو إرسال مشاركة أخرى ما دام العرض مفتوحًا."
+      },
+      "messages": {
+        "mediaUploaded": "تم رفع الوسائط بنجاح. أرسل المشاركة لإتمامها.",
+        "submitSuccess": "تم إرسال مشاركتك بنجاح!",
+        "choicesMissing": "لم يتم ضبط خيارات هذه المهمة بعد.",
+        "mustSelectOption": "اختر أحد الخيارات المتاحة قبل الإرسال.",
+        "invalidChoice": "الخيار المحدد غير صالح. الرجاء المحاولة مرة أخرى.",
+        "predictionScoresRequired": "أدخل أهداف الفريقين لإكمال التوقع.",
+        "predictionScoresInvalid": "قيمة الأهداف غير صحيحة. استخدم أرقامًا صحيحة موجبة.",
+        "predictionScoreMismatch": "نتيجة الأهداف لا تتوافق مع اختيار الفائز.",
+        "answerRequired": "اكتب إجابتك قبل الإرسال.",
+        "codeRequired": "امسح رمز QR أو أدخله يدويًا قبل الإرسال.",
+        "uploadRequired": "ارفع الوسائط المطلوبة قبل الإرسال.",
+        "infoRequired": "يرجى تزويد المعلومات المطلوبة قبل إرسال المشاركة.",
+        "submitError": "تعذر إرسال المشاركة. حاول مرة أخرى.",
+        "uploadError": "تعذر رفع الوسائط. حاول مرة أخرى.",
+        "uploadFailed": "فشل الرفع."
+      },
+      "scanner": {
+        "jsQrFailed": "تعذر تحميل أداة مسح QR.",
+        "cameraAccess": "تعذر الوصول إلى الكاميرا لإتمام المسح."
+      }
+    },
+    "entriesPanel": {
+      "defaultHeading": "مشاركاتي",
+      "defaultDescription": "تظهر مشاركاتك فور إرسالها. اضغط على أي بطاقة لاستعراض المرفقات.",
+      "loading": "جاري التحميل...",
+      "errorFallback": "تعذر تحميل المشاركات.",
+      "errorTasks": "تعذر تحميل المهام.",
+      "justNow": "الآن",
+      "taskFallback": "مهمة {index}",
+      "taskKindFallback": "مهمة",
+      "taskPoints": "{points} نقطة",
+      "taskEmpty": "لا توجد مشاركات لهذه المهمة حتى الآن.",
+      "other": "مشاركات أخرى",
+      "otherDescription": "مشاركات غير مرتبطة بمهمة محددة.",
+      "noEntries": "لم تُرسل أي مشاركات بعد. عد إلى صفحة العرض وأرسل إجابتك الأولى.",
+      "attachments": {
+        "alt": "مرفق {index}",
+        "image": "عرض الصورة كاملة",
+        "generic": "عرض المرفق {index}"
+      },
+      "cards": {
+        "mediaEntry": "مرفق وسائط مضاف",
+        "genericEntry": "تم إرسال المشاركة",
+        "scoreLabel": "النقاط:",
+        "timeLabel": "الوقت:",
+        "predictionScore": "النتيجة المتوقعة: {teamAScore} - {teamBScore}",
+        "predictionWinner": "اختيار الفائز: {value}",
+        "predictionDraw": "تعادل",
+        "predictionTeamA": "الفريق أ",
+        "predictionTeamB": "الفريق ب"
+      }
+    }
+  },
+  "ChallengesFilters": {
+    "heading": {
+      "badge": "مرشحات التحديات",
+      "title": "صفِّ التحديات المتاحة",
+      "subtitle": "ابحث، اختر النوع المناسب، واعثر على التجربة الأقرب لاهتماماتك.",
+      "hint": "يتم تحديث النتائج فوراً"
+    },
+    "search": {
+      "label": "البحث",
+      "placeholder": "ابحث بالاسم أو الجائزة أو المنظّم…",
+      "helper": "جرّب كلمات مثل \"سحب\"، \"UGC\"، أو نوع الجائزة."
+    },
+    "types": {
+      "label": "أنواع التحديات",
+      "helper": "اختر نوعاً واحداً للتركيز عليه",
+      "all": "جميع الأنواع"
+    },
+    "status": {
+      "label": "الحالة",
+      "options": {
+        "all": "جميع الحالات",
+        "active": "نشط الآن",
+        "ended": "مكتمل"
+      }
+    },
+    "sort": {
+      "label": "الفرز",
+      "options": {
+        "newest": "الأحدث أولاً",
+        "endingSoon": "ينتهي قريباً"
+      }
+    }
+  },
+  "OfferManage": {
+    "state": {
+      "loading": "جارٍ التحميل...",
+      "notFound": "العرض غير موجود.",
+      "checking": "جارٍ التحقق من الصلاحيات.",
+      "restricted": "الوصول مقيّد",
+      "restrictedMessage": "صفحة الإدارة متاحة فقط لمالك المسابقة."
+    },
+    "hero": {
+      "description": "أدر محتوى هذه المسابقة ووسائطها والحكام وغير ذلك.",
+      "clickToAddCover": "انقر لإضافة غلاف",
+      "coverAlt": "الغلاف",
+      "avatarAlt": "الصورة الرمزية",
+      "goToBasics": "انتقل إلى الأساسيات",
+      "viewPublic": "عرض الصفحة العامة"
+    },
+    "tabs": {
+      "basics": "الأساسيات",
+      "codes": "الأكواد",
+      "riddle": "تحديات الألغاز",
+      "predictionSingle": "تحدي التوقع (مفرد)",
+      "predictionMatches": "مباريات التوقع",
+      "rounds": "المراحل",
+      "prizes": "الجوائز",
+      "rules": "القواعد",
+      "media": "المعرض",
+      "judges": "الحكام",
+      "restrictions": "التقييدات",
+      "transparency": "الشفافية"
+    },
+    "basics": {
+      "heading": "الأساسيات",
+      "description": "حدّث التفاصيل الأساسية التي يراها المشاركون أولاً.",
+      "tag": "تفاصيل أساسية",
+      "labels": {
+        "title": "العنوان",
+        "description": "الوصف",
+        "startsAt": "تاريخ البدء",
+        "endsAt": "تاريخ الانتهاء",
+        "maxWinners": "عدد الفائزين الأقصى",
+        "perUserLimit": "حد لكل مستخدم",
+        "visibility": "الظهور",
+        "status": "حالة المسابقة",
+        "winnerSelection": "اختيار الفائزين",
+        "predictionFormat": "تنسيق التوقع"
+      },
+      "placeholders": {
+        "description": "صف التجربة بجملة أو جملتين..."
+      },
+      "visibility": {
+        "public": "عام (يمكن لأي شخص المشاهدة)",
+        "private": "خاص (دعوة فقط)"
+      },
+      "helpers": {
+        "status": "يتحكم بما إذا كان بإمكان المشاركين رؤية العرض ودخوله.",
+        "selection": "يخبر النظام بكيفية اختيار الفائزين.",
+        "prediction": "اختر كيفية جمع التوقعات لهذه المسابقة."
+      },
+      "predictionOptions": {
+        "simple": "تحدي واحد",
+        "tournament": "بطولة / عدة جولات (قريباً)"
+      },
+      "actions": {
+        "save": "حفظ الأساسيات"
+      }
+    },
+    "statusOptions": {
+      "active": "نشط",
+      "paused": "متوقف مؤقتاً",
+      "ended": "منتهٍ",
+      "draft": "مسودة"
+    },
+    "selectionOptions": {
+      "randomFromCorrect": "عشوائي من الإجابات الصحيحة",
+      "everyCode": "كل رمز صالح يفوز",
+      "topScore": "أعلى نتيجة / لوحة المتصدرين",
+      "fastestTime": "أسرع وقت إنجاز",
+      "mostCodes": "أكبر عدد من الرموز"
+    },
+    "media": {
+      "heading": "المعرض",
+      "addPhoto": "إضافة صورة",
+      "addTile": "+ إضافة",
+      "empty": "لا توجد صور في المعرض بعد. ارفع وسائط لإنشاء عرض أغنى.",
+      "imageAlt": "صورة في المعرض",
+      "kindFallback": "صورة",
+      "itemMeta": "{kind} في {timestamp}"
+    },
+    "judges": {
+      "heading": "الحكام",
+      "placeholder": "معرّف المستخدم للحكم (UUID)",
+      "add": "إضافة حكم",
+      "helper": "يمكن للحكام مراجعة المشاركات ومساعدة المنظم في اختيار الفائزين.",
+      "loading": "جارٍ تحميل الحكام.",
+      "empty": "لم يتم تعيين حكام بعد.",
+      "remove": "إزالة"
+    },
+    "rules": {
+      "heading": "القواعد والشروط",
+      "description": "انشر القواعد الرسمية ومتطلبات الأهلية والشروط القانونية لهذا العرض. يدعم محرر Markdown.",
+      "togglePreview": {
+        "show": "إظهار المعاينة",
+        "hide": "إخفاء المعاينة"
+      },
+      "label": "محتوى القواعد (Markdown)",
+      "placeholder": "## قواعد المسابقة\\n- الشرط 1\\n- الشرط 2",
+      "tipsTitle": "نصائح Markdown",
+      "tips": {
+        "heading": {
+          "code": "## العنوان",
+          "description": "لأقسام المحتوى"
+        },
+        "bullet": {
+          "code": "- نقطة",
+          "description": "للمتطلبات"
+        },
+        "bold": {
+          "code": "**غامق**",
+          "description": "للتأكيد"
+        },
+        "link": {
+          "code": "[رابط](https://example.com)",
+          "description": "للمراجع"
+        }
+      },
+      "preview": {
+        "title": "المعاينة",
+        "description": "هكذا ستظهر القواعد للمشاركين",
+        "empty": "أضف محتوى في الجهة اليسرى لمشاهدة المعاينة المباشرة.",
+        "disabled": "فعّل المعاينة لعرض قواعد Markdown."
+      },
+      "actions": {
+        "save": "حفظ القواعد",
+        "reset": "إعادة التعيين"
+      }
+    },
+    "modal": {
+      "changeCover": "تغيير الغلاف",
+      "changeAvatar": "تغيير الصورة الرمزية",
+      "addPhoto": "إضافة صورة",
+      "cancel": "إلغاء",
+      "upload": "رفع",
+      "uploading": "جارٍ الرفع..."
+    },
+    "messages": {
+      "loadContest": "تعذر تحميل العرض.",
+      "loadJudges": "تعذر تحميل الحكام.",
+      "coverUpdated": "تم تحديث الغلاف.",
+      "avatarUpdated": "تم تحديث الصورة الرمزية.",
+      "imageUploaded": "تم رفع الصورة.",
+      "uploadFailed": "فشل الرفع.",
+      "uploadUnavailable": "خدمة الرفع غير متاحة حالياً.",
+      "basicsSaved": "تم حفظ الأساسيات.",
+      "enterJudgeId": "أدخل معرّف المستخدم لإضافة حكم.",
+      "addJudgeSuccess": "تمت إضافة الحكم.",
+      "addJudgeFailed": "فشل في إضافة الحكم.",
+      "removeJudgeSuccess": "تمت إزالة الحكم.",
+      "removeJudgeFailed": "فشل في إزالة الحكم.",
+      "rulesUpdated": "تم تحديث القواعد."
+    },
+    "codes": {
+      "defaults": {
+        "contestTitle": "المسابقة",
+        "batchSuffix": "دفعة الأكواد",
+        "filePrefix": "codes"
+      },
+      "title": "إنشاء دفعات من أكواد QR",
+      "description": "اضبط بيانات الدفعة وسننشئ أكواداً جاهزة للتنزيل وطباعة رموز QR.",
+      "fields": {
+        "batchName": {
+          "label": "اسم الدفعة",
+          "placeholder": "مثال: دفعة إطلاق الصيف",
+          "suggested": "اقتراح: \"{name}\"."
+        },
+        "quantity": "الكمية",
+        "codeLength": {
+          "label": "طول الكود",
+          "helper": "أحرف إنجليزية وأرقام بشكل افتراضي."
+        },
+        "tag": "التصنيف",
+        "sku": {
+          "label": "رمز SKU / الشريحة (اختياري)",
+          "placeholder": "مثال: SKU-STARTER"
+        },
+        "maxRedemptions": "الحد الأقصى للاسترداد",
+        "expiry": "تاريخ الانتهاء (اختياري)"
+      },
+      "tags": {
+        "normal": "عادي",
+        "gold": "ذهبي"
+      },
+      "tips": {
+        "title": "نصائح",
+        "quantity": "اختر كمية تطابق تصميم الطباعة لديك (مثلاً مضاعفات 42).",
+        "length": "كلما طال الكود كان أصعب في التخمين، جرّب 10 أحرف على الأقل للنشاطات العامة.",
+        "sku": "استخدم رمز SKU أو التصنيفات لتتبع الأداء لكل قناة أو موقع."
+      },
+      "status": {
+        "generated": "{count, plural, zero {لم يتم إنشاء أي كود.} one {تم إنشاء كود واحد.} two {تم إنشاء كودين.} few {تم إنشاء # أكواد.} many {تم إنشاء # كوداً.} other {تم إنشاء # كود.}}"
+      },
+      "messages": {
+        "generateFailed": "تعذر إنشاء الأكواد.",
+        "unexpected": "حدث خطأ غير متوقع أثناء إنشاء الأكواد.",
+        "pdfError": "تعذر تجهيز ملف بطاقات PDF.",
+        "batchNameRequired": "اسم الدفعة مطلوب.",
+        "quantityMin": "يجب أن تكون الكمية أكبر من صفر."
+      },
+      "actions": {
+        "generate": "إنشاء وتنزيل CSV",
+        "generating": "جارٍ الإنشاء...",
+        "reset": "إعادة الاسم",
+        "downloadCards": "تنزيل بطاقات PDF",
+        "downloadCardsBusy": "جارٍ تجهيز PDF..."
+      },
+      "preview": {
+        "title": "المعاينة",
+        "description": "عرض أول {shown} من {total} من الأكواد. تم تنزيل القائمة الكاملة كملف CSV.",
+        "batchId": "معرّف الدفعة: {id}",
+        "table": {
+          "headers": {
+            "code": "الكود",
+            "tag": "التصنيف",
+            "sku": "SKU",
+            "max": "الحد الأقصى",
+            "expires": "تاريخ الانتهاء"
+          },
+          "never": "لا يوجد"
+        }
+      },
+      "cards": {
+        "title": "بطاقات قابلة للطباعة",
+        "description": "تتضمن البطاقات رمز QR وتفاصيل الكود. يحتوي ملف PDF على ثماني بطاقات لكل صفحة A4.",
+        "placeholder": "QR",
+        "alt": "رمز QR للكود {code}",
+        "tag": "التصنيف: {value}",
+        "expires": "تاريخ الانتهاء: {value}",
+        "pdf": {
+          "contestId": "معرّف المسابقة"
+        }
+      }
+    },
+    "riddle": {
+      "kinds": {
+        "MCQ": "اختيار من متعدد",
+        "ANSWER_TEXT": "إجابة نصية حرة"
+      },
+      "builder": {
+        "title": "منشئ التحدي",
+        "description": "عرّف تحدي اللغز الوحيد. اختر ما إذا كان يتطلب إجابة نصية أو اختياراً من متعدد.",
+        "actions": {
+          "create": "إنشاء التحدي",
+          "update": "تحديث التحدي",
+          "saving": "جارٍ الحفظ...",
+          "cancel": "إلغاء التعديل",
+          "editExisting": "تعديل التحدي"
+        },
+        "fields": {
+          "title": {
+            "label": "عنوان التحدي",
+            "placeholder": "مثال: لغز الأسبوع"
+          },
+          "description": {
+            "label": "النص / الوصف",
+            "placeholder": "أدخل نص اللغز أو التعليمات..."
+          },
+          "answerType": {
+            "label": "نوع الإجابة",
+            "helper": "يتيح الاختيار من متعدد تحديد الإجابات مسبقاً. تتطلب الإجابة النصية من المشاركين كتابة ردهم."
+          }
+        },
+        "options": {
+          "title": "خيارات الإجابة",
+          "description": "قدّم الإجابات المحتملة وحدد أيها صحيح. ستظهر للمشاركين كأزرار اختيار.",
+          "optionLabel": "الخيار {index}",
+          "placeholder": "أدخل نص الخيار",
+          "correct": "الإجابة الصحيحة",
+          "remove": "إزالة",
+          "add": "+ إضافة خيار",
+          "count": "{current}/{max} من الخيارات"
+        }
+      },
+      "list": {
+        "title": "التحديات الحالية",
+        "description": "تحتاج مسابقات الألغاز إلى تحدٍ واحد فقط، لكن يمكنك حفظ المسودات هنا.",
+        "loading": "جارٍ تحميل التحديات...",
+        "empty": "لا توجد تحديات بعد. استخدم النموذج أعلاه لإضافة أول لغز.",
+        "optionsTitle": "الخيارات",
+        "correctBadge": "صحيح",
+        "edit": "تعديل",
+        "delete": "حذف",
+        "removing": "جارٍ الحذف..."
+      },
+      "messages": {
+        "loadFailed": "تعذر تحميل التحديات.",
+        "saveFailed": "تعذر حفظ التحدي.",
+        "deleteFailed": "تعذر حذف التحدي.",
+        "titleRequired": "عنوان التحدي مطلوب.",
+        "optionsRequired": "أضف خيارين على الأقل مع نص.",
+        "optionsCorrect": "حدد أي خيار هو الصحيح.",
+        "confirmDelete": "هل تريد حذف هذا التحدي؟"
+      }
+    },
+    "prediction": {
+      "kinds": {
+        "MCQ": "اختيار من متعدد",
+        "ANSWER_TEXT": "إجابة نصية حرة"
+      },
+      "builder": {
+        "title": "منشئ التوقعات",
+        "description": "أنشئ أسئلة التوقع التي يجيب عنها المشاركون قبل إعلان النتائج.",
+        "actions": {
+          "create": "إنشاء توقع",
+          "update": "تحديث التوقع",
+          "saving": "جارٍ الحفظ...",
+          "cancel": "إلغاء التعديل",
+          "editExisting": "تعديل التوقع"
+        },
+        "fields": {
+          "title": {
+            "label": "عنوان السؤال",
+            "placeholder": "مثال: توقّع نتيجة المباراة"
+          },
+          "description": {
+            "label": "النص / الوصف",
+            "placeholder": "اشرح ما المطلوب من المشاركين توقعه..."
+          },
+          "answerType": {
+            "label": "نوع الإجابة",
+            "helper": "يتيح الاختيار من متعدد تحديد النتائج المحتملة مسبقاً، بينما تسمح الإجابة النصية للمشاركين بكتابة توقعاتهم بحرّية."
+          }
+        },
+        "options": {
+          "title": "خيارات الإجابة",
+          "description": "أدرج النتائج المحتملة التي يمكن للمشاركين اختيارها.",
+          "optionLabel": "الخيار {index}",
+          "placeholder": "أدخل نص الخيار",
+          "remove": "إزالة",
+          "add": "+ إضافة خيار",
+          "count": "{current}/{max} من الخيارات"
+        }
+      },
+      "list": {
+        "title": "التوقعات الحالية",
+        "description": "يمكنك حفظ المسودات هنا ونشرها عند الجاهزية.",
+        "loading": "جارٍ تحميل أسئلة التوقع...",
+        "empty": "لا توجد توقعات بعد. استخدم النموذج أعلاه لإضافة أول سؤال.",
+        "optionsTitle": "الخيارات",
+        "edit": "تعديل",
+        "delete": "حذف",
+        "removing": "جارٍ الحذف..."
+      },
+      "messages": {
+        "loadFailed": "تعذر تحميل أسئلة التوقع.",
+        "saveFailed": "تعذر حفظ التوقع.",
+        "deleteFailed": "تعذر حذف التوقع.",
+        "titleRequired": "عنوان السؤال مطلوب.",
+        "optionsRequired": "أضف خيارين على الأقل مع نص.",
+        "confirmDelete": "هل تريد حذف هذا التوقع؟"
+      }
+    },
+    "predictionMatches": {
+      "messages": {
+        "loadRounds": "تعذر تحميل الجولات.",
+        "loadMatches": "تعذر تحميل المباريات.",
+        "saveRound": "تعذر حفظ الجولة.",
+        "saveMatch": "تعذر حفظ المباراة.",
+        "deleteRound": "تعذر حذف الجولة.",
+        "deleteMatch": "تعذر حذف المباراة.",
+        "roundNameRequired": "اسم الجولة مطلوب.",
+        "teamsRequired": "أدخل اسمي الفريقين.",
+        "confirmMatchDelete": "هل تريد حذف هذه المباراة؟",
+        "confirmRoundDelete": "هل تريد حذف هذه الجولة؟"
+      },
+      "rounds": {
+        "title": "الجولات",
+        "description": "قسّم البطولة إلى جولات أو أيام مباريات.",
+        "buttons": {
+          "new": "جولة جديدة",
+          "add": "إضافة جولة"
+        },
+        "form": {
+          "name": {
+            "label": "اسم الجولة",
+            "placeholder": "مثال: الجولة الأولى"
+          },
+          "start": "تاريخ البداية (اختياري)",
+          "end": "تاريخ الانتهاء (اختياري)"
+        },
+        "actions": {
+          "saving": "جارٍ الحفظ...",
+          "create": "إنشاء الجولة",
+          "update": "تحديث الجولة",
+          "cancel": "إلغاء"
+        },
+        "states": {
+          "loading": "جارٍ تحميل الجولات...",
+          "empty": "لا توجد جولات بعد. أضف واحدة لبدء تنظيم المباريات."
+        },
+        "card": {
+          "label": "جولة",
+          "noStart": "دون بداية",
+          "noEnd": "دون نهاية",
+          "edit": "تعديل",
+          "delete": "حذف",
+          "showing": "عرض المباريات",
+          "view": "مشاهدة المباريات"
+        }
+      },
+      "matches": {
+        "title": "المباريات",
+        "description": "أضف كل مواجهة مع أسماء الفرق وموعد البداية ومتطلبات توقع النتيجة.",
+        "buttons": {
+          "new": "مباراة جديدة",
+          "add": "إضافة مباراة"
+        },
+        "form": {
+          "teamA": {
+            "label": "الفريق الأول",
+            "placeholder": "مثال: السعودية"
+          },
+          "teamB": {
+            "label": "الفريق الثاني",
+            "placeholder": "مثال: الإمارات"
+          },
+          "kickoff": "موعد البداية (اختياري)",
+          "round": "الجولة",
+          "roundNone": "دون جولة",
+          "requireScores": "إلزام المشاركين بتوقع عدد الأهداف"
+        },
+        "actions": {
+          "saving": "جارٍ الحفظ...",
+          "create": "إنشاء المباراة",
+          "update": "تحديث المباراة",
+          "cancel": "إلغاء"
+        },
+        "workflow": {
+          "title": "سير العمل",
+          "steps": "1) أضف الجولات · 2) أضف المباريات · 3) بعد نهاية المباراة، سجّل النتيجة النهائية من صفحة الحالة."
+        },
+        "filters": {
+          "all": "جميع الجولات"
+        },
+        "states": {
+          "loading": "جارٍ تحميل المباريات...",
+          "empty": "لا توجد مباريات في هذا العرض. استخدم الزر أعلاه لإضافة مباراة."
+        },
+        "card": {
+          "label": "مباراة",
+          "fallbackTeamA": "الفريق الأول",
+          "fallbackTeamB": "الفريق الثاني",
+          "round": "الجولة",
+          "optionsTitle": "النتائج المحتملة",
+          "requireScores": "على المشاركين توقع عدد الأهداف.",
+          "winnerOnly": "الفائز فقط",
+          "edit": "تعديل",
+          "delete": "حذف",
+          "removing": "جارٍ الحذف..."
+        },
+        "defaults": {
+          "draw": "تعادل"
+        },
+        "status": {
+          "scheduled": "مجدولة",
+          "awaiting": "بانتظار النتيجة",
+          "soon": "تبدأ قريباً",
+          "final": "نهائية"
+        },
+        "roundBadge": "الجولة"
+      }
+    },
+    "roundsManager": {
+      "taskKinds": {
+        "ANSWER_TEXT": "إجابة نصية حرة",
+        "MCQ": "اختيار من متعدد",
+        "SCAN_QR": "مسح رمز QR",
+        "UPLOAD_PHOTO": "رفع صورة",
+        "UPLOAD_VIDEO": "رفع فيديو",
+        "CHECKIN": "تسجيل الوصول (الموقع)",
+        "REFERRAL": "إحالة صديق"
+      },
+      "messages": {
+        "loadRounds": "تعذر تحميل الجولات.",
+        "loadTasks": "تعذر تحميل المهام.",
+        "saveRound": "تعذر حفظ الجولة.",
+        "saveTask": "تعذر حفظ المهمة.",
+        "deleteRound": "تعذر حذف الجولة.",
+        "deleteTask": "تعذر حذف المهمة.",
+        "roundNameRequired": "اسم الجولة مطلوب.",
+        "taskTitleRequired": "عنوان المهمة مطلوب.",
+        "optionsRequired": "أضف خيارين على الأقل مع نص.",
+        "optionsCorrect": "حدد أي خيار هو الصحيح.",
+        "confirmRoundDelete": "هل تريد حذف هذه الجولة؟ ستبقى المهام المرتبطة بها.",
+        "confirmTaskDelete": "هل تريد حذف هذه المهمة؟"
+      },
+      "rounds": {
+        "title": "الجولات",
+        "description": "قسّم بطولتك إلى جولات أو أيام مباريات.",
+        "buttons": {
+          "new": "جولة جديدة",
+          "add": "إضافة جولة"
+        },
+        "form": {
+          "name": {
+            "label": "اسم الجولة",
+            "placeholder": "مثال: الجولة الأولى"
+          },
+          "start": "تاريخ البداية (اختياري)",
+          "end": "تاريخ الانتهاء (اختياري)"
+        },
+        "actions": {
+          "saving": "جارٍ الحفظ...",
+          "create": "إنشاء الجولة",
+          "update": "تحديث الجولة",
+          "cancel": "إلغاء"
+        },
+        "states": {
+          "loading": "جارٍ تحميل الجولات...",
+          "empty": "لا توجد جولات بعد. أضف واحدة لبدء تنظيم المهام."
+        },
+        "card": {
+          "label": "جولة",
+          "position": "الجولة {index}",
+          "noStart": "دون بداية",
+          "noEnd": "دون نهاية",
+          "starts": "تبدأ",
+          "ends": "تنتهي",
+          "edit": "تعديل",
+          "delete": "حذف",
+          "removing": "جارٍ الحذف...",
+          "showing": "عرض المهام",
+          "view": "مشاهدة المهام"
+        }
+      },
+      "tasks": {
+        "title": "المهام",
+        "description": "حدد المهام التي يجب على المشاركين إنجازها، ويمكن ربط كل مهمة بجولة معينة.",
+        "filters": {
+          "all": "كل الجولات"
+        },
+        "buttons": {
+          "new": "مهمة جديدة",
+          "add": "إضافة مهمة"
+        },
+        "form": {
+          "title": {
+            "label": "عنوان المهمة",
+            "placeholder": "مثال: ارفع صورة الواجهة"
+          },
+          "type": "نوع المهمة",
+          "description": {
+            "label": "الوصف (اختياري)",
+            "placeholder": "اشرح الإجراء المطلوب من المشاركين..."
+          },
+          "round": "ربط المهمة بجولة",
+          "roundNone": "دون جولة",
+          "points": "النقاط",
+          "timeLimit": "الحد الزمني (بالثواني، اختياري)"
+        },
+        "options": {
+          "title": "خيارات الاختيار من متعدد",
+          "description": "أضف بين {min} و{max} خياراً وحدد الإجابة الصحيحة.",
+          "placeholder": "الخيار {index}",
+          "correct": "صحيح",
+          "remove": "إزالة",
+          "add": "+ إضافة خيار",
+          "count": "{current}/{max} من الخيارات"
+        },
+        "actions": {
+          "saving": "جارٍ الحفظ...",
+          "create": "إنشاء المهمة",
+          "update": "تحديث المهمة",
+          "cancel": "إلغاء"
+        },
+        "states": {
+          "loading": "جارٍ تحميل المهام...",
+          "empty": "لا توجد مهام بعد. استخدم \"إضافة مهمة\" لإنشاء مهمة مرتبطة بهذه الجولة."
+        },
+        "card": {
+          "kind": "مهمة",
+          "description": "الوصف",
+          "points": "النقاط",
+          "round": "الجولة",
+          "linkedRound": "الجولة المرتبطة",
+          "none": "لا يوجد",
+          "timeLimit": "حد زمني",
+          "optionsTitle": "الخيارات",
+          "correctBadge": "صحيح",
+          "edit": "تعديل",
+          "delete": "حذف",
+          "removing": "جارٍ الحذف..."
+        }
+      }
+    },
+    "transparency": {
+      "messages": {
+        "loadFailed": "تعذر تحميل بيانات الشفافية.",
+        "publishSuccess": "تم نشر دليل القرعة بنجاح.",
+        "publishFailed": "تعذر نشر دليل القرعة.",
+        "clearSuccess": "تم حذف الدليل.",
+        "clearFailed": "تعذر حذف الدليل.",
+        "confirmRemove": "هل تريد إزالة الدليل المنشور؟"
+      },
+      "hero": {
+        "title": "انشر دليل النزاهة",
+        "description": "شارك قيمة البذرة السرية وأي مصدر عشوائية خارجي ليتمكن المشاركون من التحقق من القرعة.",
+        "buttons": {
+          "create": "إنشاء الدليل",
+          "update": "تحديث الدليل",
+          "remove": "إزالة الدليل",
+          "clearing": "جارٍ الحذف..."
+        }
+      },
+      "form": {
+        "titleCreate": "نشر دليل القرعة",
+        "titleUpdate": "تحديث دليل القرعة",
+        "description": "أدخل قيمة البذرة المنشورة وأي عشوائية إضافية تم استخدامها في السحب.",
+        "seed": {
+          "label": "قيمة البذرة",
+          "placeholder": "مثال: hash_commitment_reveal"
+        },
+        "entropy": {
+          "label": "مصدر عشوائية خارجي (اختياري)",
+          "placeholder": "مثال: blockhash أو قراءة من واجهة API"
+        },
+        "actions": {
+          "publish": "نشر الدليل",
+          "update": "تحديث الدليل",
+          "publishing": "جارٍ النشر...",
+          "reset": "إعادة الحقول",
+          "cancel": "إلغاء"
+        }
+      },
+      "latest": {
+        "title": "أحدث دليل",
+        "description": "يظهر أدناه أحدث بيانات للسحب. شاركها علناً لتحقيق الشفافية الكاملة.",
+        "timestamp": {
+          "label": "غير منشور"
+        },
+        "loading": "جارٍ تحميل الدليل...",
+        "empty": "لم يتم نشر أي دليل حتى الآن."
+      }
+    },
+    "prizes": {
+      "messages": {
+        "loadFailed": "تعذر تحميل الجوائز.",
+        "saveFailed": "تعذر حفظ الجائزة.",
+        "deleteFailed": "تعذر حذف الجائزة.",
+        "nameRequired": "اسم الجائزة مطلوب.",
+        "confirmDelete": "هل تريد حذف هذه الجائزة؟"
+      },
+      "hero": {
+        "title": "الجوائز والمكافآت",
+        "description": "كافئ المشاركين بقسائم شرائية أو أرصدة أو منتجات أو ترقيات وصول."
+      },
+      "buttons": {
+        "create": "جائزة جديدة",
+        "add": "إضافة جائزة",
+        "editing": "تحديث الجائزة",
+        "saving": "جارٍ الحفظ...",
+        "reset": "إعادة النموذج",
+        "cancel": "إلغاء"
+      },
+      "form": {
+        "title": {
+          "label": "اسم الجائزة",
+          "placeholder": "مثال: قسيمة بقيمة 50 دولار"
+        },
+        "type": "نوع الجائزة",
+        "summary": {
+          "label": "الوصف (اختياري)",
+          "placeholder": "اشرح ما تتضمنه الجائزة أو الشروط الخاصة..."
+        },
+        "quantity": "الكمية",
+        "amount": "القيمة (اختياري)",
+        "currency": "العملة"
+      },
+      "types": {
+        "VOUCHER": "قسيمة",
+        "WALLET_CREDIT": "رصيد محفظة",
+        "PHYSICAL": "منتج ملموس",
+        "ACCESS": "ترقية / دخول",
+        "BADGE": "شارة"
+      },
+      "list": {
+        "title": "الجوائز الحالية",
+        "description": "استعرض الجوائز المرتبطة بهذا العرض وعدّلها أو أزلها عند الحاجة.",
+        "loading": "جارٍ تحميل الجوائز...",
+        "empty": "لا توجد جوائز حتى الآن. استخدم النموذج أعلاه لإنشاء الجائزة الأولى.",
+        "typeFallback": "جائزة",
+        "nameFallback": "جائزة دون اسم",
+        "quantity": "الكمية",
+        "amount": "القيمة",
+        "amountEmpty": "—",
+        "quantityEmpty": "—",
+        "actions": {
+          "edit": "تعديل",
+          "delete": "حذف",
+          "removing": "جارٍ الحذف..."
+        }
+      }
+    }
+  },
+  "OfferNew": {
+      "hero": {
+        "label": "أطلق تحدياً جديداً",
+        "title": "اختر التحدي الذي تريد إطلاقه",
+        "description": "ابدأ بتنسيق تحدٍ يتماشى مع حملتك. يمكنك إضافة الجوائز والوسائط والقواعد لاحقاً."
+      },
+      "list": {
+        "title": "اختر المسار الأنسب لتحديك",
+        "cta": "ابدأ بهذا التحدي",
+      "items": {
+        "RAFFLE": {
+          "title": "سحب جوائز - تسوّق واربح / اخدش واربح",
+          "desc": "مسابقات مرتبطة بالمشتريات أو البطاقات أو رموز QR. مثالية للمجمعات والحملات التفاعلية.",
+          "note": "استخدم رموز QR أو بطاقات الخدش للجوائز الفورية أو السحوبات المجدولة."
+        },
+        "RIDDLE": {
+          "title": "تحدي الألغاز",
+          "desc": "اطرح سؤال اختيار من متعدد وكافئ الإجابات الصحيحة.",
+          "note": "مثالي لجرعات المعرفة السريعة أو مسابقات التحدي الأسبوعية."
+        },
+        "QR_CODE": {
+          "title": "مغامرة رموز QR",
+          "desc": "وزّع الرموز داخل المتجر أو في المنتجات ودع عمليات المسح تفتح باب المشاركة.",
+          "note": "ممتاز للتفعيلات الميدانية وتجارب العينات."
+        },
+        "LEADERBOARD": {
+          "title": "سباق لوحة الصدارة",
+          "desc": "تتبع النقاط للمهام المختلفة واحتفل بأعلى النتائج.",
+          "note": "ملائم عندما ترغب في تفاعل مستمر لفترة أطول."
+        },
+        "TREASURE_HUNT": {
+          "title": "مطاردة الكنز",
+          "desc": "وجّه اللاعبين عبر نقاط تفتيش وكافئ الأسرع في الوصول.",
+          "note": "مصمم للجولات داخل المتاجر أو المغامرات داخل المواقع."
+        },
+        "UGC": {
+          "title": "أضواء المحتوى من الجمهور",
+          "desc": "اجمع الصور أو الفيديوهات واختر الفائزين يدوياً أو وفق قواعد محددة.",
+          "note": "مثالي للمشاركة على وسائل التواصل وسرد القصص المرتبطة بالعلامة."
+        },
+        "REFERRAL": {
+          "title": "سباق الإحالات",
+          "desc": "امنح الجميع رابطاً فريداً وكافئ أفضل السفراء.",
+          "note": "استخدمه لتعزيز التسويق الشفهي ونمو المجتمع."
+        },
+        "PREDICTION": {
+          "title": "حوض التوقعات",
+          "desc": "اجمع توقعات النتائج واحتفل بأقرب إجابة.",
+          "note": "الأفضل لبطولات الرياضة أو الحملات المرتبطة بالأحداث."
+        }
+      }
+    }
+  },
+  "OfferNewType": {
+      "hero": {
+        "label": "أطلق تحدياً جديداً",
+        "title": "أنشئ تحدي {type}",
+        "description": "اجمع أساسيات التحدي الآن. تبقى الوسائط والجوائز والقواعد المتقدمة في مساحة الإدارة لاحقاً."
+      },
+      "form": {
+        "basics": {
+          "title": "الأساسيات",
+          "description": "امنح التحدي اسماً واضحاً وعرّف المشاركين بما ينتظرهم."
+        },
+        "fields": {
+          "title": {
+            "label": "العنوان",
+            "placeholder": "مثال: لغز الجمعة"
+          },
+          "slug": {
+            "preview": "الرابط المختصر: {slug}",
+            "pending": "يُنشأ تلقائياً بعد إدخال العنوان"
+          },
+          "description": {
+            "label": "الوصف",
+            "placeholder": "وصف مختصر للتحدي..."
+          }
+        }
+      },
+    "selection": {
+      "title": "اختيار الفائزين",
+      "description": "تقترح Fizna أفضل طريقة اختيار لكل نوع ويمكنك تعديلها متى شئت.",
+      "cards": {
+        "RANDOM_FROM_CORRECT": {
+          "title": "اختيار عشوائي من الإجابات الصحيحة",
+          "note": "يُختار الفائز بشكل عشوائي من بين كل من أجاب إجابة صحيحة."
+        },
+        "EVERY_CODE": {
+          "title": "كل رمز يفوز",
+          "note": "كل رمز صالح أو عملية مسح تكسب صاحبه مكافأة."
+        },
+        "TOP_SCORE": {
+          "title": "أعلى نتيجة",
+          "note": "الفائز هو من يحقق أعلى عدد من النقاط."
+        },
+        "FASTEST_TIME": {
+          "title": "أسرع وقت",
+          "note": "يُتوج أول من يُكمل التحدي بأسرع وقت ممكن."
+        },
+        "MOST_CODES": {
+          "title": "أكثر الرموز",
+          "note": "الفائزون هم من أدخلوا أكبر عدد من الرموز."
+        }
+      }
+    },
+      "schedule": {
+        "title": "الجدول والحدود",
+        "description": "اضبط أوقات البدء والانتهاء للتحدي، وعدد الفائزين، وحدود المشاركة لكل مستخدم.",
+        "startsAt": "وقت البدء",
+      "endsAt": "وقت الانتهاء",
+      "maxWinners": "الحد الأقصى للفائزين",
+      "perUserLimit": "عدد الإدخالات لكل مشارك",
+      "visibility": "الظهور",
+      "visibilityPublic": "عام",
+      "visibilityPrivate": "خاص"
+    },
+      "buttons": {
+        "create": "إنشاء التحدي",
+        "creating": "جارٍ إنشاء التحدي...",
+        "cancel": "إلغاء"
+      },
+      "messages": {
+        "titleRequired": "عنوان التحدي مطلوب.",
+        "slugRequired": "يرجى اختيار رابط فريد قبل النشر.",
+        "createFailed": "تعذر إنشاء التحدي."
+      },
+    "aside": {
+      "overview": "نظرة عامة",
+      "selectionLabel": "طريقة الاختيار: {mode}",
+      "tipsTitle": "نصائح",
+        "tips": {
+          "first": "عناوين التحديات القصيرة والمباشرة تحقق أفضل أداء.",
+        "second": "استخدم الوصف لتوضيح كيفية المشاركة وموعد إعلان الفائزين.",
+        "third": "يمكنك تعديل الرابط المختصر قبل مشاركة الصفحة."
+      }
+    }
+  }
+}
